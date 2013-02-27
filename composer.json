@@ -1,0 +1,22 @@
+{
+    "name": "makerlabs/pagerbundle",
+    "type": "symfony-bundle",
+    "description": "Symfony2 pagination Bundle",
+    "keywords": ["symfony2", "pagination"],
+    "homepage": "https://github.com/makerlabs/PagerBundle",
+    "authors": [
+        {
+            "name": "Marcin Butlak"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/symfony": "2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "MakerLabs\\Bundle\\PagerBundle": ""
+        }
+    },
+    "target-dir": "MakerLabs/Bundle/PagerBundle"
+}
