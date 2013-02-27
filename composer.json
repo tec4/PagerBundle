@@ -15,8 +15,8 @@
     },
     "autoload": {
         "psr-0": {
-            "MakerLabs\\Bundle\\PagerBundle": ""
+            "MakerLabs\\PagerBundle": ""
         }
     },
-    "target-dir": "MakerLabs/Bundle/PagerBundle"
+    "target-dir": "MakerLabs/PagerBundle"
 }
